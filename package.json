@@ -1,13 +1,13 @@
-{
-  "name": "refactored-train",
+
+  "name": "lagalaxy1.online-admin",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "เว็บlagalaxy1 เกมสล็อตแตกง่าย แจกเครดิตฟรีโบนัส100%",
   "keywords": [
-    "syntax",
-    "theme"
+    "สมัคร Pg-slot",
+    "สล็อตแตกง่าย Pg-wallets"
   ],
-  "repository": "https://github.com/atom/refactored-train",
+  "repository": "https://github.com/lagalaxy1/refactored-train.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
